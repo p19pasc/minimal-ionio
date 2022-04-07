@@ -1,12 +1,3 @@
-.ionio-footer {
-    display: flex; 
-    flex-direction: column;
-    justify-content: space-between;
-    
-    @include breakpoint(660px) {
-        flex-direction: row;
-    }
-}
 
 .ionio-footer-list {
     padding: 0;
